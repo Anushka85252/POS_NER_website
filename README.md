@@ -1,10 +1,27 @@
-# POS Tagging and NER Web App
+# **POS Tagging and Named Entity Recognition (NER) Web Application**
 
-This project uses **spaCy** for **POS tagging** and **Named Entity Recognition (NER)** and **Streamlit** for creating a simple interactive web app. It allows users to input a sentence and get back the **POS tags** and **NER** entities.
+Welcome to the **POS Tagging and Named Entity Recognition (NER)** web application! This project leverages natural language processing (NLP) techniques to perform **Part-of-Speech (POS)** tagging and **Named Entity Recognition (NER)** on user-input sentences. The application allows you to analyze any text by providing real-time POS tagging and entity recognition on the web interface.
 
-## Setup
+## **Features**
+- **POS Tagging:** Identifies and labels the parts of speech (such as nouns, verbs, adjectives, etc.) in a given sentence.
+- **Named Entity Recognition (NER):** Extracts named entities like people, locations, organizations, dates, and more from the input text.
+- **Real-time results:** Display POS tagging and NER results immediately after submitting the sentence.
+- **Easy-to-use web interface** built with **Streamlit** for seamless interaction.
 
-### Clone the repository
+## **Project Overview**
+This application processes input sentences to display:
+- **POS Tagging**: Categorizes words into their respective parts of speech.
+- **NER**: Identifies and categorizes entities (such as names, dates, organizations, etc.) in the sentence.
+
+### **Technologies Used**
+- **Backend:** Python, Streamlit
+- **NLP Libraries:** SpaCy (for POS tagging and NER)
+- **Frontend:** Streamlit for an interactive web interface
+- **Other Tools:** Pandas, Matplotlib (for data visualization if needed)
+
+## **Getting Started**
+
+### **1. Clone the repository**
+Clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/yourusername/pos_ner_app.git
-cd pos_ner_app
+git clone https://github.com/Anushka85252/POS_NER_website.git
