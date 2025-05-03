@@ -25,12 +25,3 @@ This application processes input sentences to display:
 Clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/Anushka85252/POS_NER_website.git
-
-### Explanation:
-
-1. **Clone the repository:** The user can copy this command to clone the repository onto their local machine.
-2. **Install Dependencies:** This section shows how to install the necessary dependencies using `pip` from the `requirements.txt` file.
-3. **Run the Application:** Instructions to run the web app using **Streamlit** on their local machine.
-4. **Explore the Application:** A walkthrough for how users can input text and see POS tagging and NER in action.
-5. **Example Usage:** A practical example of using the app to input a sample sentence and see the results.
-6. **Contributing:** Instructions on how other developers can contribute to the project by forking, making changes, and creating a pull request.
